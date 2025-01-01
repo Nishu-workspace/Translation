@@ -2,6 +2,6 @@ streamlit
 sentencepiece
 torch
 sacremoses
-tensorflow==2.18.0
-keras==3.7.0
-transformers==4.47.1
+tensorflow
+keras
+transformers
