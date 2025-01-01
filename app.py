@@ -5,7 +5,7 @@ from transformers import AutoTokenizer, TFAutoModelForSeq2SeqLM
 st.set_page_config(page_title="Language Translation", page_icon="🌍", layout="wide")
 
 # Path to the model
-model_path = "Translation/tf_model"
+model_path = "./tf_model"
 
 # Cache the model and tokenizer loading
 @st.cache_resource
