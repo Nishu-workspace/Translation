@@ -1,32 +1,9 @@
-h11==0.14.0
-h5py==3.11.0
-huggingface-hub==0.27.0
-
-sacremoses==0.1.1
+sacremoses
 streamlit                  
-
-tables                           
-tabulate                       
-tblib                         
-tenacity                     
-tensorboard                     
-tensorboard-data-server         
-tensorflow                      
-tensorflow_intel                  
-termcolor                       
-terminado                     
-
-tf_keras                       
-threadpoolctl                 
-three-merge                    
-tifffile                         
-tinycss2                        
-tldextract                     
-tokenizers                    
-
-
+tensorflow                         
+tf_keras                                    
 transformers                    
-
-
+sentencepiece
+torch
 
 
